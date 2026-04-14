@@ -1,0 +1,15 @@
+Darshil@mac MINGW64 ~/SEPM-T22_98
+$ git init
+Initialized empty Git repository in ~/SEPM-T22_98/.git/
+
+Darshil@mac MINGW64 ~/SEPM-T22_98 (master)
+$ nano t22.html
+
+Darshil@mac MINGW64 ~/SEPM-T22_98 (master)
+$ git add t22.html
+
+Darshil@mac MINGW64 ~/SEPM-T22_98 (master)
+$ git commit -m "Added HTML file"
+[master (root-commit) abc1234] Added HTML file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 t22.html
